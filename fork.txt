@@ -1,1 +1,4 @@
 
+Nombre y Apellido: Robin Choqueticlla
+ip: Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.0.20
+hora : 09:33
