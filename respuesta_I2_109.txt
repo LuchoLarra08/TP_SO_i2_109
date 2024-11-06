@@ -1,2 +1,24 @@
 Facundo pico , Robin Choqueticlla , Luciano Perez Larraburu 
 
+a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos ,
+
+
+RESPUESTAS GAMMA:
+A- usamos el comando git remote add upstream (y el link del github de beta), y luego hicimos un push desde hacia la rama de beta
+
+B- si se puede, alfa deberia hacer un fork desde el repo de gamma(del fork de alfa) y trabajar ahi.
+RESPUESTAS BETA:
+C-
+D-
+RESPUESTAS ALFA:
+E
+
+
+
+
