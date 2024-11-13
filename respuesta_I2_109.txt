@@ -15,9 +15,9 @@ A- usamos el comando git remote add upstream (y el link del repo de beta) y lueg
 B- si puede, debe crear el fork de el repo de gamma(que es el repo del fork de beta) y trabajar ahi
 
 RESPUESTAS BETA:
-C-
+C- GAMMA puede actualizar su fork al estado alctual del fork de alfa, esto se realizar con git. Primero utilizamos, git remote add upstream y luego git fetch upstream, seguimos con git checkout main y con git merge upstream/main y por ultimo git push origin main 
 
-D-
+D- Los datos que has editado en tu repositorio no se perderan automaticamente al actualizar tu fork. 
 RESPUESTAS ALFA:
 E-
 git init
