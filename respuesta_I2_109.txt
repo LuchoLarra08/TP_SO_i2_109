@@ -20,3 +20,16 @@ C-
 D-
 RESPUESTAS ALFA:
 E-
+git init
+git clone link
+git add .
+git commit -m 
+git push
+
+git remote add upstream (link BETA)
+git remote -v
+git checkout (nombre_de_la_rama)
+git pull upstream main
+git merge (rama)
+git push upstream
+

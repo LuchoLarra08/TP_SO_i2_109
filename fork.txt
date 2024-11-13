@@ -4,4 +4,4 @@ Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.56.1
 
 Nombre y Apellido: Robin Choqueticlla
 ip: Direcci▒n IPv4. . . . . . . . . . . . . . : 192.168.0.20
-hora : 09:33
+hora : 10:00
